@@ -1,4 +1,7 @@
-Responsive HTML5 website template for developers
+#Personal Site
+
+This personal site's theme is based on the 'Developer' theme by 3rd Wave Media.
+The theme information and link is below:
 
 Theme name:
 =======================================================================
@@ -12,7 +15,7 @@ Release Date:
 =======================================================================
 07 Jan 2016
 
-Author: 
+Author:
 =======================================================================
 Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
 
@@ -22,7 +25,7 @@ Web: http://themes.3rdwavemedia.com/
 Email: hello@3rdwavemedia.com
 Twitter: @3rdwave_themes
 
-License: 
+License:
 =======================================================================
 This template is free under the Creative Commons Attribution 3.0 License.
 https://creativecommons.org/licenses/by/3.0/
